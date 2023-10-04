@@ -1,0 +1,28 @@
+><div class=" h-screen w-screen bg-gray-50">
+  <div class="bg-white text-gray-700 text-center">
+      <h1 class=" font-bold text-4xl mb-3">Earn up to $200 when you Refer a friend today!</h1>
+      <p>Share your Coupon code OR Referral link & Earn up to $200 for every friend.</p>
+  </div>
+  <div class="flex justify-center mt-12 space-x-3 items-center">
+    <div>
+      Coupon code
+    </div>
+    <div>
+      <input type="text" value="" class="bg-white border bg-yellow-50 px-2 py-1" />
+    </div>
+    <div>
+      <span>copy</span>
+    </div>
+  </div>
+   <div class="flex justify-center mt-2 space-x-3 items-center">
+    <div>
+      Referral Link
+    </div>
+    <div>
+      <input type="text" value="" class="bg-white border bg-yellow-50 px-2 py-1" />
+    </div>
+    <div>
+      <span>copy</span>
+    </div>
+  </div>
+</div>
